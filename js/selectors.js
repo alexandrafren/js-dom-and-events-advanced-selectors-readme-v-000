@@ -6,3 +6,11 @@ function paragraphSelector() {
 function lastImaheSelector() {
   $('img:last');
 }
+
+function ninjaBabySelector() {
+  $('#baby-ninja');
+}
+
+function divSelector() {
+  $('.pics');
+}
